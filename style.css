@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+  font-family: "Asap", sans-serif;
+}
+#container {
+  /* This is a single-line comment */
+  background-color: white;
+  color: black;
+  width: 50%;
+  text-align: center;
+  margin: auto;
+  margin-top: 20px;
+  padding: 20p;
+}
+.left-col {
+  float: left;
+}
+.right-col {
+  float: right;
+}
+.clearfix{
+   clear: both;
+}
