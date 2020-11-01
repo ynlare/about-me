@@ -15,9 +15,14 @@ body {
 .left-col {
   float: left;
 }
+
+
 .right-col {
   float: right;
 }
-.clearfix{
-   clear: both;
+.clearfix {
+  clear: both;
+}
+h1 { 
+  color: #A64AC9;
 }
