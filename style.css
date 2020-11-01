@@ -1,0 +1,47 @@
+body {
+  background-color: black;
+  font-family: "Asap", sans-serif;
+}
+#container {
+  /* This is a single-line comment */
+  background-color: white;
+  color: black;
+  width: 50%;
+  margin: auto;
+  margin-top: 20px;
+  padding: 20px;
+}
+.left-col {
+  float: left;
+}
+
+
+.right-col {
+  float: right;
+}
+.clearfix {
+  clear: both;
+}
+h1 { 
+  color: #A64AC9;
+}
+
+#gitHub { 
+  color: #A64AC9;
+  text-decoration: none;
+  border: 3px solid#A64AC9;
+  padding: 10px;
+  border-radius: 8px;
+  margin-top: 12px;
+  display: inline-block;
+}
+
+.MePic{
+  width: 200px ;
+}
+
+.purple{
+  color: #A64AC9;
+}
+
+
